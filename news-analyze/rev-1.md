@@ -14,13 +14,14 @@ Deploy: [via docker compose](/deploy.md)
 
 Goals before the next devlog: [Markdown file](/GOALS_BEFORE_NEXT_DEVLOG.md)
 
+Video Guide: [YouTube](https://youtu.be/8P3qgVm6m6g)
+
 ## Demo:
 https://yhw.tw/news
 
 ## Video Guide
 
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/8P3qgVm6m6g?si=dAT24Tb9rW-btUF2" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-
+<video src="http://zipline.yhw.tw/u/T7NYTD.mp4"></video>
 
 ## Issues:
 ### Onboarding:

@@ -21,7 +21,7 @@ https://yhw.tw/news
 
 ## Video Guide
 
-http://zipline.yhw.tw/u/T7NYTD.mp4
+https://github.com/user-attachments/assets/29414c5d-3b2f-420d-93c0-95c14a15bbb7
 
 ## Issues:
 ### Onboarding:
